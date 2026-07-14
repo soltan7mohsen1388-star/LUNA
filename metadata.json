@@ -1,0 +1,6 @@
+{
+  "name": "Sleep Cycle",
+  "description": "A smart sleep cycle calculator to find the perfect sleep and wake-up times for standard 90-minute sleep cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
